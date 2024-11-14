@@ -2,7 +2,7 @@ from datetime import timedelta
 from asyncio import sleep 
 import pytz
 import datetime, time
-from info import ADMINS, LOG_CHANNEL, QR_CODE , UPI_PAY_LOGS
+from info import ADMINS, LOG_CHANNEL, PAYMENT_QR , UPI_PAY_LOGS
 from Script import script 
 from utils import get_seconds, get_status, temp
 from database.users_chats_db import db 
