@@ -719,6 +719,18 @@ async def get_cap(settings, remaining_seconds, files, query, total_results, sear
     return cap
 
 
+def get_status():
+    tz = pytz.timezone('Asia/Colombo')
+    hour = datetime.now(tz).time().hour
+    if 5 <= hour < 12:
+        sts = "ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ"
+    elif 12 <= hour < 18:
+        sts = "ɢᴏᴏᴅ ᴀꜰᴛᴇʀɴᴏᴏɴ"
+    else:
+        sts = "ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ"
+    return sts
+    
+
 async def get_seconds(time_string):
     def extract_value_and_unit(ts):
         value = ""
