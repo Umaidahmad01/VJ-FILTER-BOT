@@ -26,7 +26,7 @@ async def start(client, message):
     
     if data.startswith('pm_mode_'):
              pm_mode = True
-   except:
+    except:
          pass
     m = message
     user_id = m.from_user.id
