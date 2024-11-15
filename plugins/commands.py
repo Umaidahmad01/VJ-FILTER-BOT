@@ -23,7 +23,7 @@ join_db = JoinReqs
 @Client.on_message(filters.command("start") & filters.incoming)
 async def start(client, message):
     await message.react(emoji="🔥")
-    pm_mode = False
+    pm_mode = True
     try:
          data = message.command[1]
          if data.startswith('pm_mode_'):
