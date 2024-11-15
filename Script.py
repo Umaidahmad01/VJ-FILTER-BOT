@@ -22,7 +22,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ⌬ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://www.mongodb.com> 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a></b>
 ⌬ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://www.heroku.com/>𝙷𝙴𝚁𝙾𝙺𝚄</a></b>
 ⌬ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : <a href=https://telegram.me/rin_nanakuraXbot?start=Z2V0LTI2MDU2NjEwNzA4NDY2MA> 𝒗𝟷𝟶.𝟶[𝑹𝑬𝑽𝑰𝑺𝑬𝑫]</a></b>
-    CLONE_ABOUT_TXT = """<b><blockquote>⍟───[ ᴍʏ ᴀʙᴏᴜᴛ ]───⍟</blockquote>
+    CLONE_ABOUT_TXT = """<b><blockquote> [ ᴍʏ ᴀʙᴏᴜᴛ ] </blockquote>
     
 ‣ ᴍʏ ɴᴀᴍᴇ : {}
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
