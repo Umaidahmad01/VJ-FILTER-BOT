@@ -23,7 +23,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ⌬ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://www.heroku.com/>𝙷𝙴𝚁𝙾𝙺𝚄</a></b>
 ⌬ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : <a href=https://telegram.me/rin_nanakuraXbot?start=Z2V0LTI2MDU2NjEwNzA4NDY2MA> 𝒗𝟷𝟶.𝟶[𝑹𝑬𝑽𝑰𝑺𝑬𝑫]</a></b>
     
-  SUBSCRIPTION_TXT = """
+    SUBSCRIPTION_TXT = """
 <b>ʀᴇғᴇʀʀᴇ ʏᴏᴜʀ ʟɪɴᴋ ᴛᴏ ʏᴏᴜʀ ғʀɪᴇɴᴅs, ғᴀᴍɪʟʏ, ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ɢʀᴏᴜᴘ ᴛᴏ ɢᴇᴛ ғʀᴇᴇ ᴘʀᴇᴍɪᴜᴍ ғᴏʀ {}
 
 ʀᴇғᴇʀᴀʟ ʟɪɴᴋ - https://telegram.me/{}?start=VJ-{}
