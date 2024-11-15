@@ -25,8 +25,8 @@ async def start(client, message):
     await message.react(emoji="🔥")
     if data.startswith('pm_mode_'):
              pm_mode = True
-    except:
-        pass
+     except:
+         pass
     m = message
     user_id = m.from_user.id
     if len(m.command) == 2 and m.command[1].startswith('notcopy'):
