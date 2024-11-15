@@ -22,16 +22,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 ⌬ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://www.mongodb.com> 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱</a></b>
 ⌬ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://www.heroku.com/>𝙷𝙴𝚁𝙾𝙺𝚄</a></b>
 ⌬ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂 : <a href=https://telegram.me/rin_nanakuraXbot?start=Z2V0LTI2MDU2NjEwNzA4NDY2MA> 𝒗𝟷𝟶.𝟶[𝑹𝑬𝑽𝑰𝑺𝑬𝑫]</a></b>
-    CLONE_ABOUT_TXT = """<b><blockquote> [ ᴍʏ ᴀʙᴏᴜᴛ ] </blockquote>
     
-⌬ ᴍʏ ɴᴀᴍᴇ : {}
-⌬ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-⌬ ᴄʟᴏɴᴇᴅ ғʀᴏᴍ : <a href=https://t.me/{}>{}</a>
-⌬ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
-⌬ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
-⌬ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
-⌬ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]</a></b>"""
-
     CLONE_TXT = """<b>🌟 <u>CLONE MODE</u>
 
 - Yᴏᴜ Cʀᴇᴀᴛᴇ Yᴏᴜʀ Oᴡɴ Cʟᴏɴᴇ Bᴏᴛ Bʏ /clone Cᴏᴍᴍᴀɴᴅ 
