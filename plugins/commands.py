@@ -23,10 +23,10 @@ join_db = JoinReqs
 @Client.on_message(filters.command("start") & filters.incoming)
 async def start(client, message):
     await message.react(emoji="🔥")
+    
     if data.startswith('pm_mode_'):
              pm_mode = True
-        
-  except:
+   except:
          pass
     m = message
     user_id = m.from_user.id
